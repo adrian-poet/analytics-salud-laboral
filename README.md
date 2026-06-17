@@ -8,7 +8,7 @@ A través de este análisis, se identifican cuellos de botella operativos y perf
 ## 📊 Reporte de Negocio e Insights (PDF)
 El desarrollo técnico está respaldado por un informe ejecutivo detallado que traduce las métricas del script en estrategias comerciales de retención.
 
-* 📄 **[Ver Reporte Completo: Diagnostico Salud Laboral y Clima Organizacional](Diagnostico%20Salud%20Laboral%20y%20Clima%20Organizacional.pdf)**
+* 📄 **[Ver Reporte Completo: Diagnostico Salud Laboral y Clima Organizacional](./Diagnostico%20Salud%20Laboral%20y%20Clima%20Organizacional.pdf)**
 
 ---
 
@@ -79,4 +79,4 @@ Para estabilizar el ecosistema corporativo sin incurrir en incrementos masivos d
 ## 💻 Código Fuente
 El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
 
-* 💾 **[Ver Script Completo](./analisis_clima_laboral.ipynb)** 
+* 💾 **[Ver Script Completo](./People_Analythics.ipynb)** 
