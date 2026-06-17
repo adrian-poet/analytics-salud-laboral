@@ -83,4 +83,4 @@ El desarrollo completo de la vista analítica con el script optimizado se encuen
 ---
 ## 👤 Autor
 * **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
-* [LinkedIn](www.linkedin.com/in/adrian-poet)
+* [LinkedIn](https://www.linkedin.com/in/adrian-poet)
