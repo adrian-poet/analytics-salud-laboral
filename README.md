@@ -5,6 +5,11 @@ Este proyecto desarrolla un diagnóstico analítico integral sobre la salud labo
 
 A través de este análisis, se identifican cuellos de botella operativos y perfiles en "Alerta Roja" con alto riesgo de fuga (rotación voluntaria), proponiendo recomendaciones accionables de "Inversión Cero" para optimizar la retención de talento.
 
+## 📊 Reporte de Negocio e Insights (PDF)
+El desarrollo técnico está respaldado por un informe ejecutivo detallado que traduce las métricas del script en estrategias comerciales de retención.
+
+* 📄 **[Ver Reporte Completo: Modelo Proactivo de Mitigación de Churn - Tarjeta X](./Diagnostico%20Salud%20Laboral%20y%20Clima%20Organizacional.pdf)**
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
@@ -69,6 +74,9 @@ Para estabilizar el ecosistema corporativo sin incurrir en incrementos masivos d
 3. **Saneamiento en Marketing:** Ajustar la base de la pirámide salarial en el sector más postergado para alinearlo equitativamente con su esfuerzo operativo.
 
 ---
-## 👤 Autor
-* **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
-* [LinkedIn](TU_LINK_DE_LINKEDIN) | [Portfolio](TU_PORTFOLIO_O_WEB)
+
+
+## 💻 Código Fuente
+El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
+
+* 💾 **[Ver Script Completo](./People_Analythics.ipynb)** 
