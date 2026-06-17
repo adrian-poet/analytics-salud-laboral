@@ -8,8 +8,7 @@ A través de este análisis, se identifican cuellos de botella operativos y perf
 ## 📊 Reporte de Negocio e Insights (PDF)
 El desarrollo técnico está respaldado por un informe ejecutivo detallado que traduce las métricas del script en estrategias comerciales de retención.
 
-* 📄 **[Ver Reporte Completo: Diagnostico Salud Laboral y Clima Organizacional](./Diagn%C3%B3stico%20de%20Salud%20Laboral%20y%20Clima%20Organizacional)**
-
+* 📄 **[Ver Reporte Completo: Diagnóstico de Salud Laboral y Clima Organizacional](./Diagn%C3%B3stico_Salud_Laboral_y_Clima%20Organizacional.pdf)**
 ---
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
