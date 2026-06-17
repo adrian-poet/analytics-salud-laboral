@@ -8,7 +8,7 @@ A través de este análisis, se identifican cuellos de botella operativos y perf
 ## 📊 Reporte de Negocio e Insights (PDF)
 El desarrollo técnico está respaldado por un informe ejecutivo detallado que traduce las métricas del script en estrategias comerciales de retención.
 
-* 📄 **[Ver Reporte Completo: Modelo Proactivo de Mitigación de Churn - Tarjeta X](./Diagnostico%20Salud%20Laboral%20y%20Clima%20Organizacional.pdf)**
+* 📄 **[Ver Reporte Completo: Diagnostico Salud Laboral y Clima Organizacional](./Diagnostico%20Salud%20Laboral%20y%20Clima%20Organizacional.pdf)**
 
 ---
 
