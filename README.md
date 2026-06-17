@@ -78,4 +78,9 @@ Para estabilizar el ecosistema corporativo sin incurrir en incrementos masivos d
 ## 💻 Código Fuente
 El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
 
-* 💾 **[Ver Script Completo](./People_Analythics.ipynb)** 
+* 💾 **[Ver Trabajo Completo](./People_Analythics.ipynb)**
+
+---
+## 👤 Autor
+* **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
+* [LinkedIn](www.linkedin.com/in/adrian-poet)
